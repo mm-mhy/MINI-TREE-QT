@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.jpg</file>
+        <file>PrimIcon.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
